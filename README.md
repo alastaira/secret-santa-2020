@@ -2,7 +2,8 @@
 Description and Build notes for mystery Secret Santa game 2020
 
 ## The Jeweller
-| ![](photos/Jeweller_1.jpg) | ![](photos/Jeweller_2.jpg)  | ![](photos/Jeweller_3.jpg) |
+![](photos/jeweller_1.jpg?s=100)
+![](photos/jeweller_2.jpg)
 
 
 
