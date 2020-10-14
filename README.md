@@ -21,7 +21,7 @@ Description and Build notes for mystery Secret Santa game 2020
 
 ## The Knight
 
-| | |
+| | | | |
 | --- | --- | --- | --- |
 | <img src="photos/knight_1.jpg" width="200"> | <img src="photos/knight_2.jpg" width="200"> | <img src="photos/knight_3.jpg" width="200"> | <img src="photos/knight_4.jpg" width="200"> |
 
