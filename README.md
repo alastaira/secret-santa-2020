@@ -5,7 +5,7 @@ Description and Build notes for mystery Secret Santa game 2020
 
 | | | |
 | --- | --- | --- |
-| <img src="photos/jeweller_openscad.jpg" width="200"> | <img src="photos/jeweller_1.jpg" width="200"> | <img src="photos/jeweller_2.jpg" width="200"> |
+| <img src="photos/jeweller_openscad.jpg" height="200"> | <img src="photos/jeweller_1.jpg" width="200"> | <img src="photos/jeweller_2.jpg" width="200"> |
 
 ## The Cook
 
