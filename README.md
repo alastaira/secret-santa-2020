@@ -17,7 +17,7 @@ Description and Build notes for mystery Secret Santa game 2020
 
 | | | | |
 | --- | --- | --- | --- |
-| <img src="photos/armourer_inkscape.jpg" width="200"> | <img src="photos/armourer_lasergrbl.jpg" width="200"> | <img src="photos/armourer_1.jpg" width="200"> | <img src="photos/armourer_2.jpg" width="200"> |
+| <img src="photos/armourer_inkscape.jpg" height="200"> | <img src="photos/armourer_lasergrbl.jpg" height="200"> | <img src="photos/armourer_1.jpg" width="200"> | <img src="photos/armourer_2.jpg" width="200"> |
 
 ## The Knight
 
