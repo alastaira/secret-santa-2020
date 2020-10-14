@@ -3,9 +3,9 @@ Description and Build notes for mystery Secret Santa game 2020
 
 ## The Jeweller
 
-| | |
-| --- | --- |
-| <img src="photos/jeweller_1.jpg" width="200"> | <img src="photos/jeweller_2.jpg" width="200"> |
+| | | |
+| --- | --- | --- |
+| <img src="photos/jeweller_openscad.jpg" width="200"> | <img src="photos/jeweller_1.jpg" width="200"> | <img src="photos/jeweller_2.jpg" width="200"> |
 
 ## The Cook
 
@@ -15,9 +15,9 @@ Description and Build notes for mystery Secret Santa game 2020
 
 ## The Blacksmith
 
-| | |
-| --- | --- |
-| <img src="photos/armourer_1.jpg" width="200"> | <img src="photos/armourer_2.jpg" width="200"> |
+| | | | |
+| --- | --- | --- | --- |
+| <img src="photos/armourer_inkscape.jpg" width="200"> | <img src="photos/armourer_lasergrbl.jpg" width="200"> | <img src="photos/armourer_1.jpg" width="200"> | <img src="photos/armourer_2.jpg" width="200"> |
 
 ## The Knight
 
