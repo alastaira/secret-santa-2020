@@ -18,7 +18,7 @@ Description and Build notes for mystery Secret Santa game 2020
 </details>
 <details>
   <summary>Solution</summary>
-  <img src="photos/jeweller_openscad.jpg" height="200">
+  <img src="photos/jeweller_solution.jpg" height="200">
 </details>
 
 ### Construction
@@ -40,6 +40,24 @@ Description and Build notes for mystery Secret Santa game 2020
 | <img src="photos/armourer_inkscape.jpg" height="200"> | <img src="photos/armourer_lasergrbl.jpg" height="200"> | <img src="photos/armourer_1.jpg" width="200"> | <img src="photos/armourer_2.jpg" width="200"> |
 
 ## The Knight
+
+### Hints
+<details>
+  <summary>Hint #1</summary>
+  This is a "Knight's Tour" puzzle.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  Starting at the bottom left square, move the piece around the board as a knight's piece would move in chess, and take note of the letters visited along the route.
+</details>
+<details>
+  <summary>Hint #3</summary>
+  You must visit every square on the board exactly once, and end at the bottom right hand square.
+</details>
+<details>
+  <summary>Solution</summary>
+  <img src="photos/knight_solution.jpg" height="200">
+</details>
 
 | | | | |
 | --- | --- | --- | --- |
