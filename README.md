@@ -51,7 +51,14 @@ If you are one of the two people in the world who have received a copy of the ga
   Rather than drawing the path on the cloth, you may find this image helpful:
   <img src="photos/seamstress_pattern.png" height="200">
 </details>
-
+<details>
+  <summary>Hint #3</summary>
+  The path should resemble a word that is relevant to the puzzle.
+</details>
+<details>
+  <summary>Solution</summary>
+  The path should resemble a word that is relevant to the puzzle.
+</details>
 ## The Blacksmith
 
 | | | | |
@@ -67,15 +74,20 @@ If you are one of the two people in the world who have received a copy of the ga
 </details>
 <details>
   <summary>Hint #2</summary>
-  Starting at the bottom left square, move the piece around the board as a knight's piece would move in chess, and take note of the letters visited along the route.
+  Starting at the bottom left square, move the piece around the board as a knight's piece would move in chess, and take note of the letters visited along the route. You must visit every square on the board exactly once, and end at the bottom right hand square.
 </details>
 <details>
   <summary>Hint #3</summary>
-  You must visit every square on the board exactly once, and end at the bottom right hand square.
+  The answer starts with the words "THE ANSWER..." 
+</details>
+<details>
+  <summary>Hint #4</summary>
+  The following image shows the sequence of moves you should make:
+  <img src="photos/knight_solution.jpg" height="200">
 </details>
 <details>
   <summary>Solution</summary>
-  <img src="photos/knight_solution.jpg" height="200">
+  THE ANSWER TO THIS KNIGHT'S TOUR IS PEASANTS
 </details>
 
 | | | | |
