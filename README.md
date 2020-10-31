@@ -27,6 +27,7 @@ If you are one of the two people in the world who have received a copy of the ga
 </details>
 <details>
   <summary>Solution</summary>
+  ETERNAL<br/>
   <img src="photos/jeweller_solution.jpg" height="200">
 </details>
 
@@ -65,7 +66,7 @@ If you are one of the two people in the world who have received a copy of the ga
 </details>
 <details>
   <summary>Solution</summary>
-  NEEDLES
+  NEEDLES<br/>
   <img src="photos/seamstress_solution_final.jpg" height="200">
 </details>
 
@@ -92,7 +93,7 @@ If you are one of the two people in the world who have received a copy of the ga
 </details>
 <details>
   <summary>Hint #4</summary>
-  The following image shows the sequence of moves you should make:
+  The following image shows the sequence of moves you should make:<br/>
   <img src="photos/knight_solution.jpg" height="200">
 </details>
 <details>
