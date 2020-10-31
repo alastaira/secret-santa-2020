@@ -10,7 +10,14 @@ I felt that this provided enough scaffolding for the game - it provided some the
 ## Hints
 If you are one of the two people in the world who have received a copy of the game, you may want to refer to the [Hints](/hints.md) 
 
-### Construction
+## Design and Build Notes
+Almost all of the game was created using free, open-source software:
+- I used [Inkscape](https://inkscape.org/) for all the 2D vector art design, including the shields, the fish, and the chessboard.  
+- Wooden parts were laser engraved on my Eleksmaker using [LaserGRBL](http://lasergrbl.com/), then cut on a scroll saw, and painted by hand.
+- The cook's menu was designed in [Krita](https://krita.org/).
+- The jeweller's rings were designed in [OpenSCAD](https://www.openscad.org/) using [this script](https://github.com/alastaira/secret-santa-2020/blob/main/code/jeweller_ring.scad), prepared in Cura, and then printed on a Creality CR10s 3D printer.
+- The seamstress' labyrinth was created using [Daedalus](https://www.astrolog.org/labyrnth/daedalus.htm), using [this script](https://github.com/alastaira/secret-santa-2020/blob/main/code/seamstress_labyrinth.ds).
+- The snippets of text were written in [Libre Writer](https://www.libreoffice.org/discover/writer/)
 
 | | | | |
 | --- | --- | --- | --- |
