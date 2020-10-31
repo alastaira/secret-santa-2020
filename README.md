@@ -57,7 +57,15 @@ If you are one of the two people in the world who have received a copy of the ga
 </details>
 <details>
   <summary>Partial Solution</summary>
-  <img src="photos/seamstress_solution_1.png" height="200">
+  <img src="photos/seamstress_solution_1.jpg" height="200">
+</details>
+<details>
+  <summary>Partial Solution #2</summary>
+  <img src="photos/seamstress_solution_3.jpg" height="200">
+</details>
+<details>
+  <summary>Solution</summary>
+  <img src="photos/seamstress_solution_final.jpg" height="200">
 </details>
 ## The Blacksmith
 
