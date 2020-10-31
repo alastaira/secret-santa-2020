@@ -49,8 +49,9 @@ If you are one of the two people in the world who have received a copy of the ga
 <details>
   <summary>Hint #2</summary>
   Rather than drawing the path on the cloth, you may find this image helpful:
-  <img src="photos/seamstress_pattern.jpg" height="200">
+  <img src="photos/seamstress_pattern.png" height="200">
 </details>
+
 ## The Blacksmith
 
 | | | | |
