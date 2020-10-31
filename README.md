@@ -7,7 +7,8 @@ I wanted to create a light-hearted game, and I thought it was appropriate to mak
 
 I felt that this provided enough scaffolding for the game - it provided some thematic context, an objective and motivation for the player, and plenty of opportunities to integrate different puzzle types. Since storytelling is not my strongest skill, I thought I could make up for it somewhat my writing all the text in rhyming verse, as in a children's fairytale.
 
-If you are one of the two people in the world who have received a copy of the game, you can find some hints below, together with more information about how the game was made.
+## Hints
+If you are one of the two people in the world who have received a copy of the game, you may want to refer to the [Hints](/hints.md) 
 
 ## Hints
 
