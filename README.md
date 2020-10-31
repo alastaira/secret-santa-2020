@@ -10,11 +10,11 @@ Description and Build notes for mystery Secret Santa game 2020
 </details>
 <details>
   <summary>Hint #2</summary>
-  Line up the rings next to each other in the correct order. If your fingers are too small, maybe stack them on a pencil.
+  Line up the rings next to each other in the correct order. If the rings are too small for your fingers, perhaps try stacking them on a pencil.
 </details>
 <details>
   <summary>Hint #3</summary>
-  You may need to flip some of the rings around to make the symbol appear correct.
+  You may need to flip some of the rings around - do the symbols resemble letters?
 </details>
 <details>
   <summary>Solution</summary>
