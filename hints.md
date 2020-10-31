@@ -4,7 +4,7 @@
  - The solution to every puzzle is a single word answer.
  - Those answer words are connected in some way to the puzzle.
  - The number of letters in each answer is indicated by the dashes on the corresponding envelope.
- - The vast majority of information required to solve the puzzles is contained within the box. However, you may if desired use any tools or resources to help you.
+ - The vast majority of information required to solve the puzzles is contained within the box. However, you may choose to use any external tools or resources to help you.
  
 ## The Jeweller
 <details>
@@ -26,8 +26,45 @@
 </details>
 
 ## The Cook
+<details>
+  <summary>Hint #1</summary>
+  This is a menu of dishes from around the world. Perhaps you should try translating the names of each dish into English?
+</details>
+<details>
+  <summary>Hint #2</summary>
+  If you're not sure what the original language was, examine the coloured banner - does that resemble anything that might help?
+</details>
+<details>
+  <summary>Hint #3</summary>
+  Each dish has a two-word name, and you should notice a common pattern shared between them.
+</details>
+<details>
+  <summary>Hint #4</summary>
+  The English name of every dish is named after a country, e.g. "FRENCH DRESSING", and is written in the language of that country, e.g. VINAIGRETTE. 
+ Write out the similar two-word name of each dish.
+</details>
+<details>
+  <summary>Hint #5</summary>
+  The number of letters in each name is indicated by the diamonds underneath the title. Pick out the letter indiciated by the black diamonds to spell a word.
+</details>
+<details>
+  <summary>Solution</summary>
+  PASTIES
+</details>
 
 ## The Fisherman
+<details>
+  <summary>Hint #1</summary>
+  You need to identify each of the creatures depicted on the transparencies, and their position on the line.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  Having done that, look carefully at the line to notice the highlighted letter from each name that you should extract.
+</details>
+<details>
+  <summary>Solution</summary>
+  BRINY
+</details>
 
 ## The Seamstress
 <details>
@@ -57,7 +94,23 @@
   <img src="photos/seamstress_solution_final.jpg" height="200">
 </details>
 
-## The Blacksmith
+## The Armourer
+<details>
+  <summary>Hint #1</summary>
+  Read the Armourer's statement carefully about the types of people he has previously made shields for. What might they have chosen to depict on their shields?
+</details>
+<details>
+  <summary>Hint #2</summary>
+  You may want to refer to an external source for the next bit.
+</details>
+<details>
+  <summary>Hint #3</summary>
+  The symbols represent (American) Sign Language, Morse Code, and Braille.
+</details>
+<details>
+  <summary>Solution</summary>
+  AID
+</details>
 
 ## The Knight
 <details>
@@ -82,11 +135,10 @@
   THE ANSWER TO THIS KNIGHT'S TOUR IS PEASANTS
 </details>
 
-
-
-
 ## The Clockmaker
 
 ## The Gardener
 
 ## The Jester
+
+## The Final Gift
