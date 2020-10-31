@@ -1,0 +1,45 @@
+DS
+// A Daedalus word maze script
+// See https://www.astrolog.org/labyrnth/daedalus/script.htm for reference
+// s: Scale of Maze
+// l: Text to Write
+// x-z: Temporary variables
+
+// Config
+ResetProgram 
+
+// Adjust as desired
+$1 "NEEDLES" 
+@s 1 // Scale 
+
+// Get string length
+@x Len $1 
+// x,y,flag1,flag2
+Size Inc Mul Add Mul @x 44 Sub 27 @s @s Inc Mul Sub 75 @s @s 0 1 
+sDel 
+Set 1 0 Off 
+@z Mul 4 @s 
+
+// Create a turtle command based on the supplied text string
+// C0 draw black
+// S@z Set scale to @z (4x@s)
+// A0 Set angle 0
+// T2 Use fixed width 8x13 pixel font
+// BM1,1 Move (M) without drawing (B) to 1,1
+// D15R2 Draw down 15, then right 3. This takes us to the bottom-left point at which to start writing text
+// T$1 Draw the text
+SetString 0 'C0S@zA0T2BM1,1D15R2TT$1' 
+Turtle $0
+// End the maze by drawing to the bottom right
+Turtle 'R3D4'
+
+// Include this line to make the solution more wiggly
+DoCount Mul @s 2 'H' 
+= nX 1 nY 1 cP \ 
+
+// Draw the solution line if desired
+Bias 1 3 1 3 _ Bias 1 3 1 3 _ - Bias 1 3 1 3 - Blend2 Replace Black Red 0 Replace Cyan Black 0 
+Replace Red Black 0 
+
+// Invert the image
+Replace Black White 1
