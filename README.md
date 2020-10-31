@@ -56,8 +56,8 @@ If you are one of the two people in the world who have received a copy of the ga
   The path should resemble a word that is relevant to the puzzle.
 </details>
 <details>
-  <summary>Solution</summary>
-  The path should resemble a word that is relevant to the puzzle.
+  <summary>Partial Solution</summary>
+  <img src="photos/seamstress_solution_1.png" height="200">
 </details>
 ## The Blacksmith
 
