@@ -21,7 +21,8 @@ Almost all of the game was created using free, open-source software:
 
 | | | | |
 | --- | --- | --- | --- |
-| <img src="photos/jeweller_openscad.jpg" height="200"> | <img src="photos/jeweller_1.jpg" width="200"> | <img src="photos/jeweller_2.jpg" width="200"> | |
+| <img src="photos/jeweller_openscad.jpg" height="200"> | <img src="photos/jeweller_1.jpg" width="200"> | <img src="photos/jeweller_2.jpg" width="200"> | <img src="photos/paper_drying.jpg" width="200"> |
 | <img src="photos/armourer_inkscape.jpg" height="200"> | <img src="photos/armourer_lasergrbl.jpg" height="200"> | <img src="photos/armourer_1.jpg" width="200"> | <img src="photos/armourer_2.jpg" width="200"> |
 | <img src="photos/knight_1.jpg" width="200"> | <img src="photos/knight_2.jpg" width="200"> | <img src="photos/knight_3.jpg" width="200"> | <img src="photos/knight_4.jpg" width="200"> |
+| <img src="photos/daedalus_maze.png" width="200"> | | | |
 
