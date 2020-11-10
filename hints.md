@@ -1,8 +1,8 @@
 # Hints
 
 ## General Hints
- - The solution to every puzzle is a single word answer.
- - Those answer words are connected in some way to the puzzle.
+ - The solution to every puzzle is a single word answer (in one case, hyphenated).
+ - Every answer word is thematically connected in some way to its puzzle.
  - The number of letters in each answer is indicated by the dashes on the corresponding envelope.
  - The vast majority of information required to solve the puzzles is contained within the box. However, you may choose to use any external tools or resources to help you.
  
@@ -20,9 +20,13 @@
   You may need to flip some of the rings around - do the symbols resemble letters?
 </details>
 <details>
-  <summary>Solution</summary>
-  ETERNAL<br/>
+  <summary>Hint #4</summary>
+  The rings should look like this:<br/>
   <img src="photos/jeweller_solution.jpg" height="200">
+</details>
+<details>
+  <summary>Solution</summary>
+  ETERNAL
 </details>
 
 ## The Cook
@@ -48,6 +52,16 @@
   The number of letters in each name is indicated by the diamonds underneath the title. Pick out the letter indiciated by the black diamonds to spell a word.
 </details>
 <details>
+  <summary>Hint #6</summary>
+ - Tortilla	= SPanish Omelette<br/>
+ - Köttbulle =	Swedish MeAtballs<br/>
+ - 饺子	= ChineSe Dumpling<br/>
+ - Lokum	= Turkish Delight<br/>
+ - Chignon	= Belgian Bun<br/>
+ - γιαούρτι	= GrEek yoghurt<br/>
+ - Vinaigrette	= French DreSsing<br/>
+</details>
+<details>
   <summary>Solution</summary>
   PASTIES
 </details>
@@ -60,6 +74,14 @@
 <details>
   <summary>Hint #2</summary>
   Having done that, look carefully at the line to notice the highlighted letter from each name that you should extract.
+</details>
+<details>
+  <summary>Hint #3</summary>
+ - craB<br/>
+ - shaRk<br/>
+ - swordfIsh<br/>
+ - dolphiN<br/>
+ - jellYfish<br/>
 </details>
 <details>
   <summary>Solution</summary>
@@ -136,9 +158,107 @@
 </details>
 
 ## The Clockmaker
+<details>
+  <summary>Hint #1</summary>
+  This is a cipher puzzle - you need to find out how to translate the code UT FAXI.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  The cog is the MINUTE. It must line up to the SECOND. 
+</details>
+<details>
+  <summary>Hint #3</summary>
+  Place the cog so that M=>S, I=>E, N=>C, etc. and then find what UT FAXI translates to
+</details>
+<details>
+  <summary>Solution</summary>
+  IN TIME
+</details>
 
 ## The Gardener
+<details>
+  <summary>Hint #1</summary>
+  This is a picross/nonogram puzzle - you need to shade in the grid so that there are the correct number of filled in cells in each row/column.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  You can use the 3D pencil sketch to help you place the blocks
+</details>
+<details>
+  <summary>Hint #3</summary>
+  Do you notice anything about the shape of the complete puzzle? The verse mentions a Quite Royal arrangement?
+</details>
+<details>
+  <summary>Hint #4</summary>
+  It's a QR code. If you filled in the cells neatly enough, you should be able to scan it using your phone or a webapp to see the message it contains
+</details>
+<details>
+  <summary>Solution</summary>
+  PLANTS
+</details>
 
 ## The Jester
-
+<details>
+  <summary>Hint #1</summary>
+  First, you need to work out the order in which the Jester performed the tricks. Is there anything on the slips that would help you do that.?
+</details>
+<details>
+  <summary>Hint #2</summary>
+  Arrange the tricks according to the number of trailing dots on the end..
+</details>
+<details>
+  <summary>Hint #3</summary>
+  Now, you need to recreate the tricks that the Jester performed, one after another, by finding the appropriate words in the grid and changing them as described... 
+</details>
+<details>
+  <summary>Hint #4</summary>
+  Every trick changes a 4-letter word into another 4-letter word....
+</details>
+<details>
+  <summary>Hint #5</summary>
+ The tricks are as follows:<br/>
+ - flag -> pear<br/>
+ - team -> star<br/>
+ - bird -> pisa<br/>
+ - pier -> diet<br/>
+ - sail -> rams<br/>
+ - seat -> slit<br/>
+ - sold -> sews<br/>
+Now, look for a message in the grid.....
+</details>
+ <details>
+  <summary>Solution</summary>
+ VANISH
+ </details>
+ 
 ## The Final Gift
+<details>
+  <summary>Hint #1</summary>
+  You should have nine words as the solutions to the nine puzzles above. Write them next to the appropriate person, and then consider the comments as to how they need to be changed.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  Every answer needs to have "a little character" added to it. In this case, a little character = a single letter
+</details>
+<details>
+  <summary>Hint #3</summary>
+  For example, the answer to the Jeweller's Puzzle was ETERNAL. What letter could you add to that word to make it mean more "outside"?
+</details>
+<details>
+  <summary>Hint #4</summary>
+  If you add an X to ETERNAL, you get EXTERNAL. Now try to find other letters that can be inserted into the other answer words to fit the clues.
+</details>
+<details>
+  <summary>Solution - MASSIVE SPOILER ALERT!</summary>
+ - X + eternal = external<br/>
+ - M + pasties = pastimes<br/>
+ - A + briny = brainy<br/>
+ - S + needles = needless<br/>
+ - C + aid = acid<br/>
+ - H + peasants = pheasants<br/>
+ - E + on-time = one-time<br/>
+ - E + plants = planets<br/>
+ - R + vanish = varnish<br/>
+ <br/>
+ Now read down the letters added to get your final solution. And have a Happy Christmas! x
+</details>
