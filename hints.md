@@ -250,15 +250,15 @@ Now, look for a message in the grid.....
 </details>
 <details>
   <summary>Solution - MASSIVE SPOILER ALERT!</summary>
-  X + eternal = external
-  M + pasties = pastimes
-  A + briny = brainy
-  S + needles = needless
-  C + aid = acid
-  H + peasants = pheasants
-  E + on-time = one-time
-  E + plants = planets
-  R + vanish = varnish
+ - X + eternal = external
+ - M + pasties = pastimes
+ - A + briny = brainy
+ - S + needles = needless
+ - C + aid = acid
+ - H + peasants = pheasants
+ - E + on-time = one-time
+ - E + plants = planets
+ - R + vanish = varnish
  
  Now read down the letters added to get your final solution. And have a Happy Christmas! x
 </details>
