@@ -20,9 +20,13 @@
   You may need to flip some of the rings around - do the symbols resemble letters?
 </details>
 <details>
-  <summary>Solution</summary>
-  ETERNAL<br/>
+  <summary>Hint #4</summary>
+  The rings should look like this:<br/>
   <img src="photos/jeweller_solution.jpg" height="200">
+</details>
+<details>
+  <summary>Solution</summary>
+  ETERNAL
 </details>
 
 ## The Cook
@@ -48,6 +52,16 @@
   The number of letters in each name is indicated by the diamonds underneath the title. Pick out the letter indiciated by the black diamonds to spell a word.
 </details>
 <details>
+  <summary>Hint #6</summary>
+ - Tortilla	= SPanish Omelette
+ - Köttbulle =	Swedish MeAtballs
+ - 饺子	= ChineSe Dumpling
+ - Lokum	= Turkish Delight
+ - Chignon	= Belgian Bun
+ - γιαούρτι	= GrEek yoghurt
+ - Vinaigrette	= French DreSsing
+</details>
+<details>
   <summary>Solution</summary>
   PASTIES
 </details>
@@ -60,6 +74,14 @@
 <details>
   <summary>Hint #2</summary>
   Having done that, look carefully at the line to notice the highlighted letter from each name that you should extract.
+</details>
+<details>
+  <summary>Hint #3</summary>
+ - craB
+ - shaRk
+ - swordfIsh
+ - dolphiN
+ - jellYfish
 </details>
 <details>
   <summary>Solution</summary>
@@ -154,9 +176,61 @@
 </details>
 
 ## The Gardener
+<details>
+  <summary>Hint #1</summary>
+  This is a picross/nonogram puzzle - you need to shade in the grid so that there are the correct number of filled in cells in each row/column.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  You can use the 3D pencil sketch to help you place the blocks
+</details>
+<details>
+  <summary>Hint #3</summary>
+  Do you notice anything about the shape of the complete puzzle? The verse mentions a Quite Royal arrangement?
+</details>
+<details>
+  <summary>Hint #4</summary>
+  It's a QR code. If you filled in the cells neatly enough, you should be able to scan it using your phone or a webapp to see the message it contains
+</details>
+<details>
+  <summary>Solution</summary>
+  PLANTS
+</details>
 
 ## The Jester
-
+<details>
+  <summary>Hint #1</summary>
+  First, you need to work out the order in which the Jester performed the tricks. Is there anything on the slips that would help you do that.?
+</details>
+<details>
+  <summary>Hint #2</summary>
+  Arrange the tricks according to the number of trailing dots on the end..
+</details>
+<details>
+  <summary>Hint #3</summary>
+  Now, you need to recreate the tricks that the Jester performed, one after another, by finding the appropriate words in the grid and changing them as described... 
+</details>
+<details>
+  <summary>Hint #4</summary>
+  Every trick changes a 4-letter word into another 4-letter word....
+</details>
+<details>
+  <summary>Hint #5</summary>
+ The tricks are as follows:
+ - flag -> pear
+ - team -> star
+ - bird -> pisa
+ - pier -> diet
+ - sail -> rams
+ - seat -> slit
+ - sold -> sews
+Now, look for a message in the grid.....
+</details>
+ <details>
+  <summary>Solution</summary>
+ VANISH
+ </details>
+ 
 ## The Final Gift
 <details>
   <summary>Hint #1</summary>
