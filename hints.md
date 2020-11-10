@@ -53,13 +53,13 @@
 </details>
 <details>
   <summary>Hint #6</summary>
- - Tortilla	= SPanish Omelette
- - Köttbulle =	Swedish MeAtballs
- - 饺子	= ChineSe Dumpling
- - Lokum	= Turkish Delight
- - Chignon	= Belgian Bun
- - γιαούρτι	= GrEek yoghurt
- - Vinaigrette	= French DreSsing
+ - Tortilla	= SPanish Omelette<br/>
+ - Köttbulle =	Swedish MeAtballs<br/>
+ - 饺子	= ChineSe Dumpling<br/>
+ - Lokum	= Turkish Delight<br/>
+ - Chignon	= Belgian Bun<br/>
+ - γιαούρτι	= GrEek yoghurt<br/>
+ - Vinaigrette	= French DreSsing<br/>
 </details>
 <details>
   <summary>Solution</summary>
@@ -77,11 +77,11 @@
 </details>
 <details>
   <summary>Hint #3</summary>
- - craB
- - shaRk
- - swordfIsh
- - dolphiN
- - jellYfish
+ - craB<br/>
+ - shaRk<br/>
+ - swordfIsh<br/>
+ - dolphiN<br/>
+ - jellYfish<br/>
 </details>
 <details>
   <summary>Solution</summary>
@@ -216,14 +216,14 @@
 </details>
 <details>
   <summary>Hint #5</summary>
- The tricks are as follows:
- - flag -> pear
- - team -> star
- - bird -> pisa
- - pier -> diet
- - sail -> rams
- - seat -> slit
- - sold -> sews
+ The tricks are as follows:<br/>
+ - flag -> pear<br/>
+ - team -> star<br/>
+ - bird -> pisa<br/>
+ - pier -> diet<br/>
+ - sail -> rams<br/>
+ - seat -> slit<br/>
+ - sold -> sews<br/>
 Now, look for a message in the grid.....
 </details>
  <details>
@@ -250,15 +250,15 @@ Now, look for a message in the grid.....
 </details>
 <details>
   <summary>Solution - MASSIVE SPOILER ALERT!</summary>
- - X + eternal = external
- - M + pasties = pastimes
- - A + briny = brainy
- - S + needles = needless
- - C + aid = acid
- - H + peasants = pheasants
- - E + on-time = one-time
- - E + plants = planets
- - R + vanish = varnish
- 
+ - X + eternal = external<br/>
+ - M + pasties = pastimes<br/>
+ - A + briny = brainy<br/>
+ - S + needles = needless<br/>
+ - C + aid = acid<br/>
+ - H + peasants = pheasants<br/>
+ - E + on-time = one-time<br/>
+ - E + plants = planets<br/>
+ - R + vanish = varnish<br/>
+ <br/>
  Now read down the letters added to get your final solution. And have a Happy Christmas! x
 </details>
