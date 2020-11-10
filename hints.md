@@ -1,7 +1,7 @@
 # Hints
 
 ## General Hints
- - The solution to every puzzle is a single word answer.
+ - The solution to every puzzle is a single word answer (in one case, hyphenated).
  - Every answer word is thematically connected in some way to its puzzle.
  - The number of letters in each answer is indicated by the dashes on the corresponding envelope.
  - The vast majority of information required to solve the puzzles is contained within the box. However, you may choose to use any external tools or resources to help you.
