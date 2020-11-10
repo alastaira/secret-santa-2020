@@ -2,7 +2,7 @@
 
 ## General Hints
  - The solution to every puzzle is a single word answer.
- - Those answer words are connected in some way to the puzzle.
+ - Every answer word is thematically connected in some way to its puzzle.
  - The number of letters in each answer is indicated by the dashes on the corresponding envelope.
  - The vast majority of information required to solve the puzzles is contained within the box. However, you may choose to use any external tools or resources to help you.
  
@@ -136,9 +136,55 @@
 </details>
 
 ## The Clockmaker
+<details>
+  <summary>Hint #1</summary>
+  This is a cipher puzzle - you need to find out how to translate the code UT FAXI.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  The cog is the MINUTE. It must line up to the SECOND. 
+</details>
+<details>
+  <summary>Hint #3</summary>
+  Place the cog so that M=>S, I=>E, N=>C, etc. and then find what UT FAXI translates to
+</details>
+<details>
+  <summary>Solution</summary>
+  IN TIME
+</details>
 
 ## The Gardener
 
 ## The Jester
 
 ## The Final Gift
+<details>
+  <summary>Hint #1</summary>
+  You should have nine words as the solutions to the nine puzzles above. Write them next to the appropriate person, and then consider the comments as to how they need to be changed.
+</details>
+<details>
+  <summary>Hint #2</summary>
+  Every answer needs to have "a little character" added to it. In this case, a little character = a single letter
+</details>
+<details>
+  <summary>Hint #3</summary>
+  For example, the answer to the Jeweller's Puzzle was ETERNAL. What letter could you add to that word to make it mean more "outside"?
+</details>
+<details>
+  <summary>Hint #4</summary>
+  If you add an X to ETERNAL, you get EXTERNAL. Now try to find other letters that can be inserted into the other answer words to fit the clues.
+</details>
+<details>
+  <summary>Solution - MASSIVE SPOILER ALERT!</summary>
+  X + eternal = external
+  M + pasties = pastimes
+  A + briny = brainy
+  S + needles = needless
+  C + aid = acid
+  H + peasants = pheasants
+  E + on-time = one-time
+  E + plants = planets
+  R + vanish = varnish
+ 
+ Now read down the letters added to get your final solution. And have a Happy Christmas! x
+</details>
